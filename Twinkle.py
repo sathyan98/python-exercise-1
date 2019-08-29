@@ -1,0 +1,27 @@
+
+print("Twinkle,twinkle little star,\n\thow i wonder what you are!,\n\tUp above the worldso high,\n Like a diamond in the sky,")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
